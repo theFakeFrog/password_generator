@@ -1,6 +1,6 @@
 import random
 
-chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789!@#$%^&*)(_-+=`~.,></?;:|"
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789!@#$%^&*)(_-+=`~.,></?;:"
 
 while 1:
     passcrack_len = int(input("how long :"))
